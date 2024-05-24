@@ -2,17 +2,14 @@
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>    
+</p>
 [![Generic badge](https://img.shields.io/badge/YOSI_RIFAI_PUTRA-LARAVEL_11__MYSQL_DATABASE_-<COLOR>.svg)](https://shields.io/)
 
-
-
-```
 Proyek ini adalah sebuah aplikasi Laravel untuk mengelola toko alat dengan fitur autentikasi, verifikasi email, dashboard dinamis, dan manajemen barang.
 
 ## Fitur
@@ -24,7 +21,6 @@ Proyek ini adalah sebuah aplikasi Laravel untuk mengelola toko alat dengan fitur
 - **Kelola Satuan Barang/Item Unit**: CRUD untuk satuan barang.
 - **Chat** (masih dalam perbaikan): Fitur untuk melakukan percakapan secara real-time.
 - **Kelola Profil**: Pengguna dapat mengubah profil mereka.
-```
 
 ## Instalasi
 
@@ -100,11 +96,13 @@ Buat fungsi untuk user supaya bisa login menggunakan email mereka.
 Ketika user sudah login arahkan user ke halaman profil. Di dalam halaman profil user bisa mengganti data diri mereka meliputi nama, email, password, foto profil, tgl lahir, no telp, alamat & pekerjaan.
 # FS 3.2 (Admin Panel)
 ## Goals
+```
 -[x] User bisa menambahkan kategori barang
 -[x] User bisa menambahkan barang
 -[x] User bisa menambahkan satuan barang
 -[x] User bisa mengubah status satuan barang
 -[x] User bisa melihat dashboard berisikan statistik data barang
+```
 ### Tasks
 Buat CRUD untuk kategori barang (contoh kategori: meja, kursi).
 Buat CRUD untuk barang yang di dalamnya berisikan nama barang, merk barang, dan kategori barang.
@@ -113,6 +111,7 @@ Di dashboard tampilkan 4 card yang masing-masing menampilkan angka total barang 
 Di dashboard tampilkan juga 4 pie chart dari masing-masing status kondisi satuan barang, berdasarkan total satuan barang, per kategori barang (contoh untuk status barang yang rusak menampilkan kalau terdapat 4 kursi, 6 meja, dan 2 papan tulis dalam bentuk pie chart).
 # FS 3.3 (Realtime Chat)
 ## Goals
+
 -[x] User bisa join dengan memasukkan username mereka
 -[] User bisa membuat ruang chat
 -[] User bisa join ruang chat
