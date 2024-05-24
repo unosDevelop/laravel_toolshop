@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-[![Generic badge](https://img.shields.io/badge/YOSI_RIFAI_PUTRA-LARAVEL_11__MYSQL_DATABASE_-<COLOR>.svg)](https://shields.io/)
+    [![Generic badge](https://img.shields.io/badge/YOSI_RIFAI_PUTRA-LARAVEL_11__MYSQL_DATABASE_-<COLOR>.svg)](https://shields.io/)
 </p>
 
 
