@@ -83,11 +83,13 @@ Push ke branch (git push origin fitur/AmazingFeature).
 Buat Pull Request.
 
 # Fullstack Challenge
-## FS 3.1 (Authentication & Profile)
-Goals
+# FS 3.1 (Authentication & Profile)
+## Goals
+
 -[x] User bisa melakukan registrasi menggunakan email.
 -[x] User bisa login menggunakan email mereka.
 -[x] User bisa mengubah profil mereka.
+
 ### Tasks
 Buatlah tampilan form registrasi dan login sebaik-baiknya.
 Buat fungsi registrasi supaya user bisa mendaftar dengan mencantumkan nama, email dan password. Ketika user berhasil mendaftarkan maka akan menerima email untuk melakukan verifikasi.
