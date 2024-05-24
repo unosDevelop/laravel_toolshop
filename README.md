@@ -89,13 +89,14 @@ Buat Pull Request.
 - [x] User bisa login menggunakan email mereka.
 - [x] User bisa mengubah profil mereka.
 
-### Tasks
+## Tasks
 Buatlah tampilan form registrasi dan login sebaik-baiknya.
 Buat fungsi registrasi supaya user bisa mendaftar dengan mencantumkan nama, email dan password. Ketika user berhasil mendaftarkan maka akan menerima email untuk melakukan verifikasi.
 Buat fungsi dan tampilan untuk melakukan verifikasi email.
 Setelah berhasil melakukan verifikasi email, user diarahkan ke halaman untuk melengkapi data diri, di dalamnya terdapat form berisikan foto profil, tgl lahir, no telp, alamat & pekerjaan (select box, data nya bebas).
 Buat fungsi untuk user supaya bisa login menggunakan email mereka.
 Ketika user sudah login arahkan user ke halaman profil. Di dalam halaman profil user bisa mengganti data diri mereka meliputi nama, email, password, foto profil, tgl lahir, no telp, alamat & pekerjaan.
+
 # FS 3.2 (Admin Panel)
 ## Goals
 - [x] User bisa menambahkan kategori barang
@@ -103,8 +104,8 @@ Ketika user sudah login arahkan user ke halaman profil. Di dalam halaman profil 
 - [x] User bisa menambahkan satuan barang
 - [x] User bisa mengubah status satuan barang
 - [x] User bisa melihat dashboard berisikan statistik data barang
-```
-### Tasks
+      
+## Tasks
 Buat CRUD untuk kategori barang (contoh kategori: meja, kursi).
 Buat CRUD untuk barang yang di dalamnya berisikan nama barang, merk barang, dan kategori barang.
 Di dalam barang, buat CRUD satuan barang dimana satuan ini memiliki kode barang (bersifat unik), dan juga status kondisi (bagus, rusak, perlu perbaikan & dalam perbaikan).
@@ -113,10 +114,11 @@ Di dashboard tampilkan juga 4 pie chart dari masing-masing status kondisi satuan
 
 # FS 3.3 (Realtime Chat)
 ## Goals
-- [x] User bisa join dengan memasukkan username mereka
-- [] User bisa membuat ruang chat
-- [] User bisa join ruang chat
-- [] User bisa mengirim pesan dan menerima pesan dari ruang chat
+- [x] User bisa join dengan memasukkan username mereka 
+- [ ] User bisa membuat ruang chat
+- [ ] User bisa join ruang chat
+- [ ] User bisa mengirim pesan dan menerima pesan dari ruang chat
+  
 ### Tasks
 Buat socket server menggunakan socket.io.
 Buat tampilan awal form untuk melakukan input username.
