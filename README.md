@@ -85,10 +85,9 @@ Buat Pull Request.
 # Fullstack Challenge
 # FS 3.1 (Authentication & Profile)
 ## Goals
--[x] User bisa melakukan registrasi menggunakan email.
-
--[x] User bisa login menggunakan email mereka.
--[x] User bisa mengubah profil mereka.
+- [x] User bisa melakukan registrasi menggunakan email.
+- [x] User bisa login menggunakan email mereka.
+- [x] User bisa mengubah profil mereka.
 
 ### Tasks
 Buatlah tampilan form registrasi dan login sebaik-baiknya.
@@ -99,12 +98,11 @@ Buat fungsi untuk user supaya bisa login menggunakan email mereka.
 Ketika user sudah login arahkan user ke halaman profil. Di dalam halaman profil user bisa mengganti data diri mereka meliputi nama, email, password, foto profil, tgl lahir, no telp, alamat & pekerjaan.
 # FS 3.2 (Admin Panel)
 ## Goals
-```
--[x] User bisa menambahkan kategori barang
--[x] User bisa menambahkan barang
--[x] User bisa menambahkan satuan barang
--[x] User bisa mengubah status satuan barang
--[x] User bisa melihat dashboard berisikan statistik data barang
+- [x] User bisa menambahkan kategori barang
+- [x] User bisa menambahkan barang
+- [x] User bisa menambahkan satuan barang
+- [x] User bisa mengubah status satuan barang
+- [x] User bisa melihat dashboard berisikan statistik data barang
 ```
 ### Tasks
 Buat CRUD untuk kategori barang (contoh kategori: meja, kursi).
@@ -112,13 +110,13 @@ Buat CRUD untuk barang yang di dalamnya berisikan nama barang, merk barang, dan 
 Di dalam barang, buat CRUD satuan barang dimana satuan ini memiliki kode barang (bersifat unik), dan juga status kondisi (bagus, rusak, perlu perbaikan & dalam perbaikan).
 Di dashboard tampilkan 4 card yang masing-masing menampilkan angka total barang dari masing-masing status kondisi satuan barang.
 Di dashboard tampilkan juga 4 pie chart dari masing-masing status kondisi satuan barang, berdasarkan total satuan barang, per kategori barang (contoh untuk status barang yang rusak menampilkan kalau terdapat 4 kursi, 6 meja, dan 2 papan tulis dalam bentuk pie chart).
+
 # FS 3.3 (Realtime Chat)
 ## Goals
-
--[x] User bisa join dengan memasukkan username mereka
--[] User bisa membuat ruang chat
--[] User bisa join ruang chat
--[] User bisa mengirim pesan dan menerima pesan dari ruang chat
+- [x] User bisa join dengan memasukkan username mereka
+- [] User bisa membuat ruang chat
+- [] User bisa join ruang chat
+- [] User bisa mengirim pesan dan menerima pesan dari ruang chat
 ### Tasks
 Buat socket server menggunakan socket.io.
 Buat tampilan awal form untuk melakukan input username.
