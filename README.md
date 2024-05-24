@@ -85,7 +85,7 @@ Buat Pull Request.
 # Fullstack Challenge
 # FS 3.1 (Authentication & Profile)
 ## Goals
--[x]User bisa melakukan registrasi menggunakan email.
+-[x] User bisa melakukan registrasi menggunakan email.
 
 -[x] User bisa login menggunakan email mereka.
 -[x] User bisa mengubah profil mereka.
