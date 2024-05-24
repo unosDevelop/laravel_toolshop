@@ -11,6 +11,7 @@
 
 [![Generic badge](https://img.shields.io/badge/YOSI_RIFAI_PUTRA-LARAVEL_11__MYSQL_DATABASE_-<COLOR>.svg)](https://shields.io/)
 ```
+```
 Proyek ini adalah sebuah aplikasi Laravel untuk mengelola toko alat dengan fitur autentikasi, verifikasi email, dashboard dinamis, dan manajemen barang.
 
 ## Fitur
@@ -22,6 +23,7 @@ Proyek ini adalah sebuah aplikasi Laravel untuk mengelola toko alat dengan fitur
 - **Kelola Satuan Barang/Item Unit**: CRUD untuk satuan barang.
 - **Chat** (masih dalam perbaikan): Fitur untuk melakukan percakapan secara real-time.
 - **Kelola Profil**: Pengguna dapat mengubah profil mereka.
+```
 
 ## Instalasi
 
