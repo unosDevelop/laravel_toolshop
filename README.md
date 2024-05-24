@@ -1,5 +1,5 @@
 # Lara-Toolshop
-```
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 [![Generic badge](https://img.shields.io/badge/YOSI_RIFAI_PUTRA-LARAVEL_11__MYSQL_DATABASE_-<COLOR>.svg)](https://shields.io/)
-
+```
 Proyek ini adalah sebuah aplikasi Laravel untuk mengelola toko alat dengan fitur autentikasi, verifikasi email, dashboard dinamis, dan manajemen barang.
 
 ## Fitur
